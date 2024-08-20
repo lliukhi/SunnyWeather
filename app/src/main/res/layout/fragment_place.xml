@@ -31,5 +31,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/actionBarLayout"
+        android:clickable="true"
+        android:splitMotionEvents="false"
         android:visibility="gone"/>
 </RelativeLayout>
